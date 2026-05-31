@@ -26,4 +26,4 @@ This project provides a shortcut designed for iOS and macOS to suggest replies l
 - Ensure you have an active internet connection for AI functionalities.
 - The shortcut might require additional configurations, such as signing into a third-party AI service or providing API keys.
 
-We hope you find this shortcut helpful for your daily tasks. For any issues or suggestions, feel free to open an issue in this repository.
+I hope you find this shortcut helpful for your daily tasks. For any issues or suggestions, feel free to open an issue in this repository.
